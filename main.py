@@ -59,3 +59,4 @@ copy_to_clipboard = input(
 
 if copy_to_clipboard == 'Y':
     pyperclip.copy(password)
+    print('Password copied to clipboard!')
