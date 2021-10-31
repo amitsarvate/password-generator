@@ -19,9 +19,6 @@ SYMBOLS = ['@', '#', '$', '%', '=', ':', '?', '.', '/', '|', '~', '>',
            '*', '(', ')', '<']
 
 
-COMBINED_LIST = []
-
-
 # collecting user input from the user
 password_length = int(
     input('Hello - Please Enter Length of Desired Password: '))
