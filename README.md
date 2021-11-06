@@ -4,8 +4,7 @@
 
 ## Overview - 
 
-This is a project done using python. Essentially, the user is prompted to enter the length of a password they would like to have randomly generated for them and 
-program will take this length and randomly selected a combination of different characters including:
+This is a project done using python. Essentially, the user is prompted to enter the length of a password they would like to have randomly generated for them and the program will generate a password of desired length by randomly selected a combination of different characters including:
 
 - digits [0-9]
 - lowercase letters [a-z]
