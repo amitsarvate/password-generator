@@ -12,6 +12,6 @@ program will take this length and randomly selected a combination of different c
 - uppercase letters [A-Z]
 - symbols (i.e: $, #, @) 
 
-one the program has generated the password it will be returned to the user. Addtionally, using the python library 'pyperclip', the user is given an option to 
+once the program has generated the password it will be returned to the user. Addtionally, using the python library 'pyperclip', the user is given an option to 
 copy and paste their password to their clipboard so they can just paste (CONTROL + V) the password into any password field when signing up for some account! 
 
